@@ -3,12 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0000FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Priyashi!;" />
 </h1>
 
-<h3 align="center"><em>Back-End Development | Problem-Solving</em></h3>
+<h3 align="center"><em>Devops | Problem-Solving</em></h3>
  <img align="right" alt="GIF" src="https://github.com/Priyashi911/Priyashi911/blob/main/code.gif?raw=true" width="300" height="220" />
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyashi911&label=Profile%20views&color=0e75b6&style=flat" alt="Priyashi911" /> </p>
 
 👩🏻‍💻 CSE student sharing about my journey and learnings in tech<br/> 
-💬 Ask me about **DSA and Web Development**<br/> 
+💬 Ask me about **DSA and Devops**<br/> 
 📫 How to reach me **barnawalpriyashi911@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
